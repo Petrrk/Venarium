@@ -14,7 +14,6 @@ namespace Venarium
             _graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
             IsMouseVisible = true;
-            //kokot
         }
 
         protected override void Initialize()
